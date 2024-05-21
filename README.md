@@ -3,7 +3,7 @@
 </h1>
 
  <b>*Software Engineer* </b>
-<img align="right" width="370" height="283" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">    
+<img  src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" align="right" width="370" height="278">    
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Machine Learning and Artificial Intelligence
