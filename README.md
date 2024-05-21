@@ -15,10 +15,10 @@
   
 -------------------------
 
-### I code in
+## I code in
 <img height="51" width="55" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="52" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="52" width="55" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="52" width="55" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="52" width="55" src="https://img.icons8.com/color/48/000000/html-5.png" />  <img height="52" width="55" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="52" width="55" src="https://img.icons8.com/color/48/000000/javascript.png"/>  <img height="52" width="55" src="https://img.icons8.com/color/48/000000/react-native.png"/>  <img height="52" width="55" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  <img height="52" width="55" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  <img height="52" width="55" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
 ---
-### 💻 Workspace Specs
+## 💻 Workspace Specs
 <img height="30" src="https://img.shields.io/badge/AMD-A4 4350B-ED1C24?style=for-the-badge&logo=amd&logoColor=red"/> 
 
